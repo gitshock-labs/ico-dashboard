@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/lavn/Downloads/nobleui-laravel-admin-template-2022-04-19-06-54-56-utc/NobleUI-Laravel-v2.1/template/demo1'
+make: Leaving directory '/home/lavn/Downloads/nobleui-laravel-admin-template-2022-04-19-06-54-56-utc/NobleUI-Laravel-v2.1/template/demo1'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
